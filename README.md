@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isalpha)](https://solved.ac/isalpha/)
 <!--
 **isangu/isangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
